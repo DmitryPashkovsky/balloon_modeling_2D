@@ -4,7 +4,7 @@
 
 # Математическая модель
 
-![](https://github.com/DmitryPashkovsky/balloon_modeling_2D/blob/main/theory.png)
+![](https://github.com/DmitryPashkovsky/balloon_modeling_2D/blob/main/theory_1.png)
 
 
 # Результаты моделирования
